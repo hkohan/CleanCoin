@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <img width=20% src="https://raw.githubusercontent.com/tronprotocol/wiki/master/images/java-tron.png">
+  <img width=20% src="http://bayanbox.ir/view/4461297721719064422/0a566149-b02f-49b6-9878-5b5c97fe3d3a.png">
   <br>
-  java-tron
+  java-CleanCoin
   <br>
 </h1>
 
 <h4 align="center">
-  Java implementation of the <a href="https://tron.network">Tron Protocol</a>
+  Java implementation of the <a href="https://tron.network">CleanCoin Protocol</a>
 </h4>
 
 
@@ -46,15 +46,15 @@
   <a href="#community">Community</a>
 </p>
 
-## What's TRON?
+## What's CleanCoin?
 
-TRON is a project dedicated to building the infrastructure for a truly decentralized Internet.
+CleanCoin is a project dedicated to building the infrastructure for a truly decentralized Internet.
 
-The Tron Protocol, one of the largest blockchain based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the TRON ecosystem. 
+The CleanCoin Protocol, one of the largest blockchain based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the CleanCoin ecosystem. 
 
-TRON enables large-scale development and engagement. With over 2000 TPS, high concurrency, low latency and massive data transmission, TRON is ideal for building decentralized entertainment applications. Free features and incentive systems allow developers to create premium app experiences for users.
+CleanCoin enables large-scale development and engagement. With over 2000 TPS, high concurrency, low latency and massive data transmission, CleanCoin is ideal for building decentralized entertainment applications. Free features and incentive systems allow developers to create premium app experiences for users.
 
-TRON Protocol and the TVM allow anyone to develop DAPPs for themselves or their communities, with smart contracts making decentralized crowdfunding and token issuance easier than ever.
+CleanCoin Protocol and the TVM allow anyone to develop DAPPs for themselves or their communities, with smart contracts making decentralized crowdfunding and token issuance easier than ever.
 
 # How to Build
 
@@ -83,7 +83,7 @@ git checkout -t origin/master
 * Build in the Terminal
 
 ```bash
-cd java-tron
+cd java-CleanCoin
 ./gradlew build
 ```
 
@@ -270,7 +270,7 @@ Then, run `FullNode::main()` again.
 
 ### Running multi-nodes
 
-To run TRON on more than one node, you need to specify several seed nodes' IPs in `config.conf` in `seed.node.ip.list`:
+To run CleanCoin on more than one node, you need to specify several seed nodes' IPs in `config.conf` in `seed.node.ip.list`:
 For private testnet, the IPs are allocated by yourself.
 
 ## Running a local node and connecting to the public testnet 
@@ -463,21 +463,3 @@ Then observe whether block synchronization success，If synchronization successf
 # Quick Start
 
 Read the [Quick Start](http://wiki.tron.network/en/latest/Quick_Start.html).
-
-# Community
-
-* [Slack](https://join.slack.com/t/tronfoundation/shared_invite/enQtMzAzNzg4NTI4NDM3LTAyZGQzMzEzMjNkNDU0ZjNkNTA4OTYyNTA5YWZmYjE3MTEyOWZhNzljNzQwODM3NDQ0OWRiMTIyMDhlYzgyOGQ)
-* [Telegram](https://t.me/tronnetworkEN)
-
-# Links
-
-* [Website](https://tron.network/)
-* [Documentation](https://github.com/tronprotocol/java-tron)
-* [Blog](https://tronprotocol.github.io/tron-blog/)
-* [TRON Wiki](http://wiki.tron.network/en/latest/)
-
-# Projects
-
-* [TRON Protocol](https://github.com/tronprotocol/protocol)
-* [Wallet Client](https://github.com/tronprotocol/wallet-cli)
-* [Wallet Web](https://github.com/tronprotocol/wallet-web)
