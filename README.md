@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <img width=20% src="http://bayanbox.ir/view/4461297721719064422/0a566149-b02f-49b6-9878-5b5c97fe3d3a.png">
-  <br>
+ 
   java-CleanCoin
   <br>
 </h1>
