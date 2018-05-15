@@ -43,7 +43,13 @@
   <a href="CONTRIBUTING.md">Contributing</a> •
   <a href="#community">Community</a>
 </p>
+```ruby
 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+
+ |h|o|s|s|e|i|n| |k|o|h|a|n|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+
+
+```
 ## What's CleanCoin?
 
 CleanCoin is a project dedicated to building the infrastructure for a truly decentralized Internet.
