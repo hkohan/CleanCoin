@@ -43,13 +43,7 @@
   <a href="CONTRIBUTING.md">Contributing</a> •
   <a href="#community">Community</a>
 </p>
-```ruby
 
- +-+-+-+-+-+-+-+ +-+-+-+-+-+
- |h|o|s|s|e|i|n| |k|o|h|a|n|
- +-+-+-+-+-+-+-+ +-+-+-+-+-+
-
-```
 ## What's CleanCoin?
 
 CleanCoin is a project dedicated to building the infrastructure for a truly decentralized Internet.
@@ -467,3 +461,12 @@ Then observe whether block synchronization success，If synchronization successf
 # Quick Start
 
 Read the [Quick Start](http://wiki.tron.network/en/latest/Quick_Start.html).
+
+
+```ruby
+
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+
+ |h|o|s|s|e|i|n| |k|o|h|a|n|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+
+
+```
